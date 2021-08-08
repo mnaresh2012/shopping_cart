@@ -6,6 +6,8 @@ clone the Repository to the local
 git clone https://github.com/mnaresh2012/shopping_cart.git
 ```
 
+![alt text](checkout.png)
+
 Navigate the "shopping_cart" folder and run npm install
 ```
 cd shopping_cart
