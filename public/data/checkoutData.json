@@ -1,0 +1,51 @@
+{
+    "shoppingCart": {
+        "products": [
+            {
+                "id": "4231648",
+                "name": "Chicken momo",
+                "imagePath": "./images/momo.jpeg",
+                "price": "10.50",
+                "qty": "1"
+            },
+            {
+                "id": "4231649",
+                "name": "Spicy Mexican potatoes",
+                "imagePath": "./images/spicy.jpeg",
+                "price": "8.50",
+                "qty": "1"
+            },
+            {
+                "id": "4231650",
+                "name": "Breakfast",
+                "imagePath": "./images/breakfast.jpeg",
+                "price": "5.90",
+                "qty": "1"
+            }
+        ],
+        "staticContent": {
+            "shoppingCart": "Shopping Cart",
+            "cardDetails": "Card Details",
+            "cardType": "Card Type",
+            "continueShopping": "Continue Shopping",
+            "subTotal": "Subtotal:",
+            "totalPrice": "24.90",
+            "cardDetailsForm": {
+                "nameOnCard": "Name on Card",
+                "cardNumber": "Card Number",
+                "expirationDate": "Expiration date",
+                "checkoutBtn": "Check Out",
+                "visaCardImg": "../images/visa.png",
+                "masterCardImg": "../images/master_card.png",
+                "cvv": "CVV",
+                "years": [2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032],
+                "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+                "placeholder": {
+                    "month": "mm",
+                    "year": "yyyy",
+                    "cvv": "XXX"
+                }
+            }
+        }
+    }
+}
