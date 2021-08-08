@@ -16,3 +16,8 @@ To run  the Server -
 ```
 npm run dev
 ```
+
+## Demo
+```
+https://shopping-cart-kappa-six.vercel.app/
+```
