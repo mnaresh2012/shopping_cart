@@ -11,7 +11,7 @@ Navigate the "shopping_cart" folder and run npm install
 cd shopping_cart
 npm install
 ```
-once the istallation is completed
+once the installation is completed,
 To run  the Server -
 ```
 npm run dev
