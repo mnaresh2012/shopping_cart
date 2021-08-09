@@ -1,4 +1,4 @@
-# Checkout Page Functionality - using Next.js, React with Redux
+# Checkout Page Functionality - using Next.js, React and Redux
 
 ### How to Build and Run
 clone the Repository to the local
